@@ -1,0 +1,88 @@
+[
+	{
+		"time": "20181029",
+		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181029.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hp20181029/hp/hp181029.mp3",
+		"id": 65181029
+	},
+	{
+		"time": "20181030",
+		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181030.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hp20181030/hp/hp181030.mp3",
+		"id": 65181030
+	},
+	{
+		"time": "20181031",
+		"title": "热点慢半拍；心动小语：野生动物",
+		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181031.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hp20181031/hp/hp181031.mp3",
+		"id": 65181031
+	},
+	{
+		"time": "20181101",
+		"title": "星路导航图：谈电影《江湖儿女》；心动小语：最奇妙的是你",
+		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181101.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hp20181101/hp/hp181101.mp3",
+		"id": 65181101
+	},
+	{
+		"time": "20181102",
+		"title": "音乐走心听：欣赏歌曲《新的心跳》、《依靠》；心动小语：彩虹的约定",
+		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181102.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hp20181102/hp/hp181102.mp3",
+		"id": 65181102
+	},
+	{
+		"time": "20181103",
+		"title": "周末颜明放羊班：分享节目更新感想",
+		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181103.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/hp20181103/hp/hp181103.mp3",
+		"id": 65181103
+	},
+	{
+		"time": "20181104",
+		"title": "周末颜明放羊班：分享拥有的意义",
+		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181104.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/hp20181104/hp/hp181104.mp3",
+		"id": 65181104
+	},
+	{
+		"time": "20181105",
+		"title": "心情按摩椅：九句转变情绪的话语；心动小语：需用的都有",
+		"downUrl": "http://txly2.net/ly/audio/2018/hp/hp181105.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 65,
+		"artistName": "星动一刻",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/hp20181105/hp/hp181105.mp3",
+		"id": 65181105
+	}
+]
