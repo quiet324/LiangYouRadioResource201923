@@ -51220,5 +51220,8 @@
 	},
 	{
 		"fileName": "../operate/all_cw20190604_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ws20190604_songs.json"
 	}
 ]
