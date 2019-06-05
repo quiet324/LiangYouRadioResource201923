@@ -13,7 +13,7 @@
     "async": "^2.4.0",
     "cos-nodejs-sdk-v5": "^2.0.20",
     "dateformat": "^2.0.0",
-    "deasync": "^0.1.11",
+    "deasync": "^0.1.15",
     "download": "^6.0.0",
     "download-file-sync": "^1.0.4",
     "github": "^9.2.0",
