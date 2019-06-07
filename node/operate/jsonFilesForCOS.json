@@ -51544,5 +51544,8 @@
 	},
 	{
 		"fileName": "../operate/all_hd20190608_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ba20190608_songs.json"
 	}
 ]
