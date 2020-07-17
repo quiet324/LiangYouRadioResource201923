@@ -18,7 +18,7 @@
     "download-file-sync": "^1.0.4",
     "github": "^9.2.0",
     "github-api": "^3.0.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "mkdirp": "^0.5.1",
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13",
