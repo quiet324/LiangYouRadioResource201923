@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.4.0",
+    "async": "^2.6.4",
     "cos-nodejs-sdk-v5": "^2.0.20",
     "dateformat": "^2.0.0",
     "deasync": "^0.1.15",
