@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.4.0",
-    "cos-nodejs-sdk-v5": "^2.0.20",
+    "cos-nodejs-sdk-v5": "^2.11.19",
     "dateformat": "^2.0.0",
     "deasync": "^0.1.15",
     "download": "^6.0.0",
@@ -27,6 +27,6 @@
     "octonode": "^0.7.12",
     "qiniu": "^7.1.1",
     "shelljs": "^0.7.7",
-    "x-ray": "^2.3.2"
+    "x-ray": "^2.3.4"
   }
 }
